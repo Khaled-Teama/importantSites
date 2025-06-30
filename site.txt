@@ -4,3 +4,4 @@ https://onecompiler.com //onlineCompiler
 https://ideone.com //onlineCompiler
 https://overthewire.org/wargames/ //موقع للتدريب علي اوامر سطر لينكس Command line
 https://www.onlinegdb.com/online_c_compiler //onlineCompiler
+https://satr.codes //منصة قوية لتعلم البرمجة وكذا مجال تاني
