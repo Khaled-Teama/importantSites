@@ -1,1 +1,6 @@
 https://monkeytype.com  // موقع للتدريب علي الكتابة السريعة
+https://www.edclub.com/sportal/ //موقع تاني للتدريب علي الكتابة السريعة
+https://onecompiler.com //onlineCompiler
+https://ideone.com //onlineCompiler
+https://overthewire.org/wargames/ //موقع للتدريب علي اوامر سطر لينكس Command line
+https://www.onlinegdb.com/online_c_compiler //onlineCompiler
