@@ -5,3 +5,6 @@ https://ideone.com //onlineCompiler
 https://overthewire.org/wargames/ //موقع للتدريب علي اوامر سطر لينكس Command line
 https://www.onlinegdb.com/online_c_compiler //onlineCompiler
 https://satr.codes //منصة قوية لتعلم البرمجة وكذا مجال تاني
+https://netriders.academy // موقع كورسات في السايبر سيكيورتي للبشمهندس احمد سلطان
+https://abdulmogeeb.com // منصة بشمهندس عبد المجيب لدراسة البرمجة
+https://sh3ll.cloud/xf2/ //منصة مفيدة في كذا مجال تقني
