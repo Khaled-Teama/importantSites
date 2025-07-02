@@ -11,3 +11,4 @@ https://sh3ll.cloud/xf2/ //منصة مفيدة في كذا مجال تقني
 https://www.hackerrank.com/dashboard //training on cyber
 https://account.hackthebox.com/dashboard // training on cyber
 https://hackerone.com/opportunities/all //training on cyber
+https://osintframework.com //موقع بيوفر مواقع مفيدة في مجال الاوسينت
