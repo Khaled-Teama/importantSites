@@ -6,7 +6,7 @@ https://overthewire.org/wargames/ //موقع للتدريب علي اوامر س
 https://www.onlinegdb.com/online_c_compiler //onlineCompiler
 https://satr.codes //منصة قوية لتعلم البرمجة وكذا مجال تاني
 https://netriders.academy // موقع كورسات في السايبر سيكيورتي للبشمهندس احمد سلطان
-https://abdulmogeeb.com // منصة بشمهندس عبد المجيب لدراسة البرمجة
+https://www.flexcourses.com/courses // منصة بشمهندس عبد المجيب لدراسة البرمجة
 https://sh3ll.cloud/xf2/ //منصة مفيدة في كذا مجال تقني
 https://www.hackerrank.com/dashboard //training on cyber
 https://account.hackthebox.com/dashboard // training on cyber
