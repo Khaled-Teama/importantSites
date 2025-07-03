@@ -12,3 +12,5 @@ https://www.hackerrank.com/dashboard //training on cyber
 https://account.hackthebox.com/dashboard // training on cyber
 https://hackerone.com/opportunities/all //training on cyber
 https://osintframework.com //موقع بيوفر مواقع مفيدة في مجال الاوسينت
+https://flexboxfroggy.com // موقع جامد بيدربني علي خاصية ال flex box in css
+https://mastery.games/flexboxzombies/chapter/1/level/1 // برضو موقع جامد بيدربني علي خاصية ال flex box in ccss
