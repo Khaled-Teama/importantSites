@@ -1,17 +1,17 @@
-https://monkeytype.com  // موقع للتدريب علي الكتابة السريعة
-https://www.edclub.com/sportal/ //موقع تاني للتدريب علي الكتابة السريعة
+https://monkeytype.com  // fast typing
+https://www.edclub.com/sportal/ // fast typing
 https://onecompiler.com //onlineCompiler
 https://ideone.com //onlineCompiler
-https://overthewire.org/wargames/ //موقع للتدريب علي اوامر سطر لينكس Command line
+https://overthewire.org/wargames/ // training on linux command line
 https://www.onlinegdb.com/online_c_compiler //onlineCompiler
-https://satr.codes //منصة قوية لتعلم البرمجة وكذا مجال تاني
-https://netriders.academy // موقع كورسات في السايبر سيكيورتي للبشمهندس احمد سلطان
-https://www.flexcourses.com/courses // منصة بشمهندس عبد المجيب لدراسة البرمجة
-https://sh3ll.cloud/xf2/ //منصة مفيدة في كذا مجال تقني
+https://satr.codes //education site
+https://netriders.academy // education site for cybersecurity 
+https://www.flexcourses.com/courses // education site
+https://sh3ll.cloud/xf2/ // education and docs site
 https://www.hackerrank.com/dashboard //training on cyber
 https://account.hackthebox.com/dashboard // training on cyber
 https://hackerone.com/opportunities/all //training on cyber
-https://osintframework.com //موقع بيوفر مواقع مفيدة في مجال الاوسينت
-https://flexboxfroggy.com // موقع جامد بيدربني علي خاصية ال flex box in css
-https://mastery.games/flexboxzombies/chapter/1/level/1 // برضو موقع جامد بيدربني علي خاصية ال flex box in ccss
-https://devdocs.io/ موقع رائع فيه كذا دوكيمونتس في  كذا لغة برمجة وفريم ورك 
+https://osintframework.com // Osint Sites
+https://flexboxfroggy.com // training on flex box in css
+https://mastery.games/flexboxzombies/chapter/1/level/1 // training on flex box in css
+https://devdocs.io/ programming languages docs
