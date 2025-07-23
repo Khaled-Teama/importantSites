@@ -1,1 +1,29 @@
 https://youtu.be/Q6G-J54vgKc?si=HqVGbkP_7J435JGs // Git,GithubCourse
+( Front-End )
+HTML -->> https://youtu.be/6QAELgirvjs?si=jMPblwTX6oNAOSQR
+Css -- >>https://youtu.be/X1ulCwyhCVM?si=p8sPBYPxxQ9BPgvS
+JavaScript -- >> https://youtu.be/GM6dQBmc-Xg?si=N-AKz_xRnPbWRBBM
+bootstrap -- >> https://youtu.be/9mdGUKFu5OQ?si=biU_flDQAs8vAp44 
+Tailwind css -- >> https://youtu.be/FA1mXzhDMxM?si=j1-aMiC5GCnjUaUv
+React --> https://youtu.be/jU9kDwRtjBE?si=q29fu50Yw2UgxtLN
+_____________________________________________________________________________________
+Back-End (1)  :
+
+php --> https://youtu.be/xcg9qq6SZ0w?si=aFqOkwxszN-ZWc78
+Laravel -- > https://youtu.be/bXjRQM_VK_I?si=f32_vTTSjN5bu1ci غير كامل لاسامة الزيرو 
+Laravel --> https://youtu.be/GiNWNd_Qpnk?si=tamQ9iWPSZ4KsyXG 
+MySQL -- > https://youtu.be/DftlOK7fCtc?si=fiPzrxGpKUKP7SwX
+sql --> https://youtu.be/98LuqEZlZis?si=PvwFA_3X1UD4zE8X 
+اتعلم MYSQL  أفضل مع ال PHP 
+_____________________________________________________________________________________
+Back-End (2)  :
+asp.net core mvc -- > https://youtu.be/_hJs5gLCNLg?si=m5hKYES6IzScM-LJ 
+asp.net core mvc --> https://youtu.be/-Vqd7FtQZ84?si=9vMBkWKkZqohxe9Q 
+asp.net core mvc --> https://youtu.be/oP4FNurzzAA?si=FzcQXCrAKITbnKyX
+asp.net core web api --> https://youtu.be/2AWFuSJ_Cxg?si=a98yf5jIA72hnzOP
+asp .net core --> https://youtu.be/bRtTIrhm16Q?si=tRBTUmZKVCK4WjUp
+entity framework --> https://youtu.be/COL0otMHkBU?si=zvlTMhNOJfCV1aZB
+C# -->https://youtu.be/DZHohhJDjHk?si=tHvoGu5KQbmk_-6r
+C# OOP --> https://youtu.be/T9DAwNXggPI?si=O2dwTlb1VdTCLE5c 
+SQL SERVER  --> https://youtu.be/9dW34UI520Y?si=ludhhq-YI4zI5hps 
+______________________________________________________________________________________
